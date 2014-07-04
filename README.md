@@ -11,7 +11,7 @@ Small java application to display black, customizable coverbars on top and botto
 * Use '1' and '2' (Keyboard) to switch move the bars between the first two attached displays.
  
 ##Screenshot
-![Cinebar](https://dl.dropboxusercontent.com/u/28544174/cinebars_screenshot.png "Cinebar")
+![Cinebar](https://dl.dropboxusercontent.com/u/28544174/apps/cinebars/cinebars_screenshot.png "Cinebar")
 
 
 
